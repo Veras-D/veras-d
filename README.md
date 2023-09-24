@@ -7,6 +7,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=veras-d&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veras-d&layout=compact)
+
 ### Tecnologias 🤖
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
@@ -20,6 +22,10 @@
 ![LaTeX Badge](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=fff&style=for-the-badge)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
 ![JSON Badge](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff&style=for-the-badge)
+![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=for-the-badge)
+
+Graduando em engenharia mecânica na UEMA, programador python/MATLAB e entusiasta da ciência
+
 
 <!--
 **Veras-D/veras-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
