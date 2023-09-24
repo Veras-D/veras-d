@@ -4,6 +4,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge)](https://www.instagram.com/dvero_23/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/danilo-veras-007b8b149/)
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=veras-d&show_icons=true&theme=transparent)
+
 <!--
 **Veras-D/veras-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
