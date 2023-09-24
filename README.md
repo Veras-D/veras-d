@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/danilo-veras-007b8b149/)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=veras-d&show_icons=true&theme=radical) ![Top Langs|300](https://github-readme-stats.vercel.app/api/top-langs/?username=veras-d&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=veras-d&show_icons=true&theme=radical) ![Top Langs|350](https://github-readme-stats.vercel.app/api/top-langs/?username=veras-d&layout=compact)
 
 ### Tecnologias 🤖
 
