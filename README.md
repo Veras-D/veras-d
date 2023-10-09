@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://github.com/veras-d">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=veras-d&show_icons=true&theme=radical"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veras-d&layout=compact&theme=radical"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Veras-D&show_icons=true&theme=radical"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veras-D&layout=compact&theme=radical"/>
 </div>
 
 
