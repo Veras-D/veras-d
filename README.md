@@ -3,6 +3,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge)](https://www.instagram.com/dvero_23/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/danilo-veras-007b8b149/)
+[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=for-the-badge)](https://whatsapp.com/channel/0029VaFfcFOAO7RB9LPR8v1T)
 
 <div>
   <a href="https://github.com/veras-d">
