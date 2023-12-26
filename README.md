@@ -10,7 +10,7 @@
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Veras-D&show_icons=true&theme=radical"/>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veras-D&layout=compact&theme=radical"/>
 </div>
-
+<!--https://badges.pages.dev/-->
 
 ### Tecnologias 🤖
 
@@ -30,6 +30,7 @@
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
 ![GNU Bash Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=for-the-badge)
 ![Pytest Badge](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=fff&style=for-the-badge)
+![Arduino Badge](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=for-the-badge)
 
 Estou cursando Engenharia Mecânica na Universidade Estadual do Maranhão (UEMA) e sou um programador experiente em Python e MATLAB. Tenho uma paixão especial pela ciência e gosto de aplicar meu conhecimento em projetos práticos. Minha jornada inclui a resolução de exercícios complexos em Python, conforme evidenciado no meu repositório 'Exerciciospython'.
 
