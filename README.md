@@ -31,7 +31,7 @@
 ![GNU Bash Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=for-the-badge)
 ![Pytest Badge](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=fff&style=for-the-badge)
 
-Graduando em engenharia mecânica na UEMA, programador python/MATLAB e entusiasta da ciência.
+Estou cursando Engenharia Mecânica na Universidade Estadual de Maringá (UEMA) e sou um programador experiente em Python e MATLAB. Tenho uma paixão especial pela ciência e gosto de aplicar meu conhecimento em projetos práticos. Minha jornada inclui a resolução de exercícios complexos em Python, conforme evidenciado no meu repositório 'Exerciciospython'.
 
 
 <!--
