@@ -32,7 +32,9 @@
 ![Pytest Badge](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=fff&style=for-the-badge)
 ![Arduino Badge](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=for-the-badge)
 
-Estou cursando Engenharia Mecânica na Universidade Estadual do Maranhão (UEMA) e sou um programador experiente em Python e MATLAB. Tenho uma paixão especial pela ciência e gosto de aplicar meu conhecimento em projetos práticos. Minha jornada inclui a resolução de exercícios complexos em Python, conforme evidenciado no meu repositório 'Exerciciospython'.
+Atualmente, estou cursando Engenharia Mecânica na Universidade Estadual do Maranhão (UEMA). Possuo experiência significativa como programador, com destaque para Python, Arduino e MATLAB. Estou particularmente interessado em Ciência de Dados e Inteligência Artificial, áreas que estou buscando aprofundar. Tenho uma forte paixão pela ciência e acredito firmemente na importância de aplicar meu conhecimento em contextos práticos.
+
+Minha jornada acadêmica e profissional tem incluído a resolução de exercícios complexos em Python, o que é evidente em meus repositórios 'Exerciciospython' e 'PyHolofotes'. Estou constantemente buscando novos desafios e oportunidades para expandir minhas habilidades e conhecimento.
 
 
 <!--
