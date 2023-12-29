@@ -34,7 +34,7 @@
 
 Atualmente, estou cursando Engenharia Mecânica na Universidade Estadual do Maranhão (UEMA). Possuo experiência significativa como programador, com destaque para Python, Arduino e MATLAB. Estou particularmente interessado em Ciência de Dados e Inteligência Artificial, áreas que estou buscando aprofundar. Tenho uma forte paixão pela ciência e acredito firmemente na importância de aplicar meu conhecimento em contextos práticos.
 
-Minha jornada acadêmica e profissional tem incluído a resolução de exercícios complexos em Python, o que é evidente em meus repositórios 'Exerciciospython' e 'PyHolofotes'. Estou constantemente buscando novos desafios e oportunidades para expandir minhas habilidades e conhecimento.
+Minha jornada acadêmica e profissional tem incluído a resolução de exercícios complexos em Python, o que é evidente em meus repositórios `Exerciciospython` e `PyHolofotes`. Estou constantemente buscando novos desafios e oportunidades para expandir minhas habilidades e conhecimento.
 
 
 <!--
