@@ -6,9 +6,9 @@
 
 <div align='center'>
   <a href="https://github.com/veras-d">
-  <img height="200cm" src="https://github-readme-stats.vercel.app/api?username=Veras-D&show_icons=true&theme=radical"/>
-  <img height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veras-D&layout=compact&theme=radical"/>  
-  <img width="850cm" src="https://github-readme-activity-graph.vercel.app/graph?username=Veras-D&theme=redical&radius=16"/>
+  <img height="190cm" src="https://github-readme-stats.vercel.app/api?username=Veras-D&show_icons=true&theme=radical"/>
+  <img height="190cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veras-D&layout=compact&theme=radical"/>  
+  <img width="808cm" src="https://github-readme-activity-graph.vercel.app/graph?username=Veras-D&theme=redical&radius=16"/>
 </div>
 <!--https://badges.pages.dev/-->
 <br>
