@@ -7,7 +7,8 @@
 <div>
   <a href="https://github.com/veras-d">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Veras-D&show_icons=true&theme=radical"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veras-D&layout=compact&theme=radical"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veras-D&layout=compact&theme=radical"/>  
+  <img width="763cm" src="https://github-readme-activity-graph.vercel.app/graph?username=Veras-D&theme=redical&radius=16"/>
 </div>
 <!--https://badges.pages.dev/-->
 
