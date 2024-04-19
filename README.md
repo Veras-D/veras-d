@@ -2,8 +2,8 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge)](https://www.instagram.com/veras_programmer/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/veras-d/)
-[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=for-the-badge)](https://whatsapp.com/channel/0029VaFfcFOAO7RB9LPR8v1T)
 [![Medium Badge](https://img.shields.io/badge/Medium-000?logo=medium&logoColor=fff&style=for-the-badge)](https://medium.com/@dveras2310)
+[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=for-the-badge)](https://whatsapp.com/channel/0029VaFfcFOAO7RB9LPR8v1T)
 
 <div align='center'>
   <a href="https://github.com/veras-d">
