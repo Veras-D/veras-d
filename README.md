@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?pause=1000&color=D6008B&center=false&repeat=false&random=false&width=435&lines=Ol%C3%A1%2C+Eu+Sou+Veras%F0%9F%91%8B!;Estou+estudando+DataScience%F0%9F%9A%80!;Ol%C3%A1%2C+Eu+Sou+Veras%F0%9F%91%8B!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?pause=1000&color=D6008B&center=false&repeat=false&random=false&width=435&lines=Hello%2C+My+name+is+Veras%F0%9F%91%8B!;I'm+studying+DataScience%F0%9F%9A%80!;Hello%2C+My+name+is+Veras%F0%9F%91%8B!)](https://git.io/typing-svg)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge)](https://www.instagram.com/veras_programmer/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/veras-d/)
