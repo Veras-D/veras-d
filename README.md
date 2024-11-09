@@ -30,7 +30,7 @@
 ![FastAPI Badge](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=for-the-badge)
 ![Pytest Badge](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=fff&style=for-the-badge)
 ![Arduino Badge](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=for-the-badge)
-![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge)
+![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)
 
 Atualmente, estou cursando Engenharia Mecânica na Universidade Estadual do Maranhão (UEMA). Possuo experiência significativa como programador, com destaque para Python, Arduino e MATLAB. Estou particularmente interessado em Ciência de Dados e Inteligência Artificial, áreas que estou buscando me aprofundar. Tenho uma forte paixão pela ciência e acredito firmemente na importância de aplicar meu conhecimento em contextos práticos.
 
