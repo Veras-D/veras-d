@@ -39,9 +39,13 @@
 
 #### DevOps ☁️
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
+![GitHub Actions Badge](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff&style=for-the-badge)
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
 ![Arduino Badge](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=for-the-badge)
 ![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![OpenTelemetry Badge](https://img.shields.io/badge/OpenTelemetry-000?logo=opentelemetry&logoColor=fff&style=for-the-badge)
+![Grafana Badge](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=fff&style=for-the-badge)
+![Jenkins Badge](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=fff&style=for-the-badge)
 
 Atualmente, estou cursando Engenharia Mecânica na Universidade Estadual do Maranhão (UEMA). Possuo experiência significativa como programador, com destaque para Python, Arduino e MATLAB. Estou particularmente interessado em Ciência de Dados e Inteligência Artificial, áreas que estou buscando me aprofundar. Tenho uma forte paixão pela ciência e acredito firmemente na importância de aplicar meu conhecimento em contextos práticos.
 
