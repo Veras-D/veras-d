@@ -15,7 +15,6 @@
 <br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?pause=1000&color=D6008B&center=false&repeat=false&random=false&width=435&lines=Tecnologias🤖!)](https://git.io/typing-svg)
-
 ### Data 📊
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
 ![pandas Badge](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=for-the-badge)
