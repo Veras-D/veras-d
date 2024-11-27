@@ -46,8 +46,12 @@
 ![Grafana Badge](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=fff&style=for-the-badge)
 ![Jenkins Badge](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=fff&style=for-the-badge)
 
-Atualmente, estou cursando Engenharia Mecânica na Universidade Estadual do Maranhão (UEMA). Possuo experiência significativa como programador, com destaque para Python, Arduino e MATLAB. Estou particularmente interessado em Ciência de Dados e Inteligência Artificial, áreas que estou buscando me aprofundar. Tenho uma forte paixão pela ciência e acredito firmemente na importância de aplicar meu conhecimento em contextos práticos.
+I began my programming journey in 2020 during college, focusing on Python and Data Science. Over the years, I’ve
+delved into various technologies and projects, always striving to learn and adapt to market demands. In 2024, I shifted
+my focus to become a Full-stack developer, expanding my skills in both frontend and backend development. Currently,
+I work with technologies like React, Node.js, TypeScript, C#, and PostgreSQL, while also exploring DevOps tools like
+Docker. I’m passionate about creating complete, functional, and efficient solutions, and I’m always looking for new
+challenges to further enhance my skills.
 
-Minha jornada acadêmica e profissional tem incluído a resolução de exercícios complexos em Python, o que é evidente em meus repositórios ` SistemaCadastroAPAM`, `PyHolofotes` e `NLWPoket`. Estou constantemente buscando novos desafios e oportunidades para expandir minhas habilidades e conhecimento.
-
+My academic and professional journey has included solving complex exercises in Python, TS and .NET, which is evident in my repositories `SistemaCadastroAPAM`, `PyHolofotes` and `NLWPoket`. I am constantly seeking new challenges and opportunities to expand my skills and knowledge.
 
