@@ -65,7 +65,7 @@
 I began my programming journey in 2020 during college, focusing on Python and Data Science. Over the years, I’ve
 delved into various technologies and projects, always striving to learn and adapt to market demands. In 2024, I shifted
 my focus to become a Full-stack developer, expanding my skills in both frontend and backend development. Currently,
-I work with technologies like React, Node.js, TypeScript, C#, and PostgreSQL, while also exploring DevOps tools like
+I work with technologies like React, Node.js, TypeScript, JAVA, and PostgreSQL, while also exploring DevOps tools like
 Docker. I’m passionate about creating complete, functional, and efficient solutions, and I’m always looking for new
 challenges to further enhance my skills.
 
