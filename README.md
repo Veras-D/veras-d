@@ -31,13 +31,16 @@
 ### Web 🌐
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=for-the-badge)
-![.NET Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge)
 ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
 ![Next.js Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
 ![Angular Badge](https://img.shields.io/badge/Angular-0F0F11?logo=angular&logoColor=fff&style=for-the-badge)
 ![Spring Boot Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=for-the-badge)
 ![Jest Badge](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=for-the-badge)
+<!--
+![.NET Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge)
+-->
+
 
 ### DataBase 🗃️
 ![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=for-the-badge)
@@ -66,5 +69,5 @@ I work with technologies like React, Node.js, TypeScript, C#, and PostgreSQL, wh
 Docker. I’m passionate about creating complete, functional, and efficient solutions, and I’m always looking for new
 challenges to further enhance my skills.
 
-My academic and professional journey has included solving complex exercises in Python, TS and .NET, which is evident in my repositories `SistemaCadastroAPAM`, `PyHolofotes` and `NLWPoket`. I am constantly seeking new challenges and opportunities to expand my skills and knowledge.
+My academic and professional journey has included solving complex exercises in Python, TS and JAVA, which is evident in my repositories `SistemaCadastroAPAM`, `PyHolofotes` and `NLWPoket`. I am constantly seeking new challenges and opportunities to expand my skills and knowledge.
 
