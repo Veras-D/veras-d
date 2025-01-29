@@ -61,10 +61,10 @@
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
 ![Arduino Badge](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=for-the-badge)
 ![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![OpenTelemetry Badge](https://img.shields.io/badge/OpenTelemetry-000?logo=opentelemetry&logoColor=fff&style=for-the-badge)
 <!--
 ![Grafana Badge](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=fff&style=for-the-badge)
 ![Jenkins Badge](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=fff&style=for-the-badge)
+![OpenTelemetry Badge](https://img.shields.io/badge/OpenTelemetry-000?logo=opentelemetry&logoColor=fff&style=for-the-badge)
 -->
 
 I began my programming journey in 2020 during college, focusing on Python and Data Science. Over the years, I’ve
