@@ -74,5 +74,5 @@ I work with technologies like React, Node.js, TypeScript, C#, .NET, and PostgreS
 Docker. I’m passionate about creating complete, functional, and efficient solutions, and I’m always looking for new
 challenges to further enhance my skills.
 
-My academic and professional journey has included solving complex exercises in Python, TS and JAVA, which is evident in my repositories `SistemaCadastroAPAM`, `PyHolofotes` and `NLWPoket`. I am constantly seeking new challenges and opportunities to expand my skills and knowledge.
+My academic and professional journey has included solving complex exercises in Python, TS and .NET, which is evident in my repositories `SistemaCadastroAPAM`, `PyHolofotes` and `NLWPoket`. I am constantly seeking new challenges and opportunities to expand my skills and knowledge.
 
