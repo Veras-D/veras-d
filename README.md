@@ -22,11 +22,11 @@
 ![Node.js Badge](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=for-the-badge)
 ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
-![Next.js Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
 ![Jest Badge](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=for-the-badge)
 ![.NET Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge)
 
 <!--
+![Next.js Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
 ![Angular Badge](https://img.shields.io/badge/Angular-0F0F11?logo=angular&logoColor=fff&style=for-the-badge)
 ![Spring Boot Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=for-the-badge)
 -->
@@ -71,9 +71,8 @@
 I began my programming journey in 2020 during college, focusing on Python and Data Science. Over the years, I’ve
 delved into various technologies and projects, always striving to learn and adapt to market demands. In 2024, I shifted
 my focus to become a Full-stack developer, expanding my skills in both frontend and backend development. Currently,
-I work with technologies like React, Node.js, TypeScript, JAVA, Spring, and PostgreSQL, while also exploring DevOps tools like
+I work with technologies like React, Node.js, TypeScript, C#, .NET, MongoDB, and PostgreSQL, while also exploring DevOps tools like
 Docker. I’m passionate about creating complete, functional, and efficient solutions, and I’m always looking for new
 challenges to further enhance my skills.
 
-My academic and professional journey has included solving complex exercises in Python, TS and .NET, which is evident in my repositories `SistemaCadastroAPAM`, `PyHolofotes` and `NLWPoket`. I am constantly seeking new challenges and opportunities to expand my skills and knowledge.
-
+My academic and professional journey has involved solving complex problems using Python, TypeScript, and .NET. You can check out my best project in my <a href="https://veras-app.netlify.app/" style="color: purple;">portfolio</a>. I’m constantly looking for new challenges and opportunities to expand my skills and knowledge.
