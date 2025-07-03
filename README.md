@@ -8,7 +8,7 @@
 <div align='center'>
   <a href="https://github.com/veras-d">
   <img height="190cm" src="https://github-readme-stats.vercel.app/api?username=Veras-D&show_icons=true&theme=radical"/>
-  <img height="190cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veras-D&layout=compact&theme=radical&hide=Jupyter%20Notebook,css,c%2B%2B,html,go,matlab,c&exclude_repo=Exerciciospython,Gerenciador_Animais_APAM,PyGame_Projects,tasks,PyHolofotes,discordBot,telegramBot,churnPrediction"/>  
+  <img height="190cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veras-D&layout=compact&theme=radical&hide=Jupyter%20Notebook,css,html,matlab&exclude_repo=Exerciciospython,Gerenciador_Animais_APAM,PyGame_Projects,tasks,PyHolofotes,churnPrediction"/>  
   <img width="808cm" src="https://github-readme-activity-graph.vercel.app/graph?username=Veras-D&theme=redical&radius=16"/>
 </div>
 <!--https://badges.pages.dev/-->
@@ -23,14 +23,14 @@
 ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
 ![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=for-the-badge)
-![.NET Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge)
+![Spring Boot Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=for-the-badge)
 
 <!--
 ![RabbitMQ Badge](https://img.shields.io/badge/RabbitMQ-F60?logo=rabbitmq&logoColor=fff&style=for-the-badge)
 ![Redis Badge](https://img.shields.io/badge/Redis-FF4438?logo=redis&logoColor=fff&style=for-the-badge)
 ![Next.js Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
 ![Angular Badge](https://img.shields.io/badge/Angular-0F0F11?logo=angular&logoColor=fff&style=for-the-badge)
-![Spring Boot Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=for-the-badge)
+![.NET Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge)
 -->
 
 
