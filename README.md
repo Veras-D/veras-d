@@ -75,11 +75,11 @@
 ![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff&style=for-the-badge)
 -->
 
-I began my programming journey in 2020 during college, focusing on Python and Data Science. Over the years, I’ve
-delved into various technologies and projects, always striving to learn and adapt to market demands. In 2024, I shifted
+Developer with 3 years of experience, coding since 2020. Strong skills in Python and Full-Stack Web Development. Over the years, I’ve
+delved into various technologies and projects, always striving to learn and adapt to market demands. In 2023, I shifted
 my focus to become a Full-stack developer, expanding my skills in both frontend and backend development. Currently,
-I work with technologies like React, Node.js, TypeScript, C#, .NET, MongoDB, and PostgreSQL, while also exploring DevOps tools like
-Docker. I’m passionate about creating complete, functional, and efficient solutions, and I’m always looking for new
+I work with technologies like React, Node.js, TypeScript, MongoDB, and PostgreSQL, while also exploring DevOps tools like
+Docker and AWS. I’m passionate about creating complete, functional, and efficient solutions, and I’m always looking for new
 challenges to further enhance my skills.
 
-My academic and professional journey has involved solving complex problems using Python, TypeScript, and .NET. You can check out my best project in my <a href="https://veras-app.netlify.app/" style="color: purple;">portfolio</a>. I’m constantly looking for new challenges and opportunities to expand my skills and knowledge.
+My academic and professional journey has involved solving complex problems using Python, TypeScript, and JAVA. You can check out my best project in my <a href="https://veras-app.netlify.app/" style="color: purple;">portfolio</a>. I’m constantly looking for new challenges and opportunities to expand my skills and knowledge.
