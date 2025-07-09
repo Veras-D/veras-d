@@ -8,7 +8,7 @@
 <div align='center'>
   <a href="https://github.com/veras-d">
   <img height="190cm" src="https://github-readme-stats.vercel.app/api?username=Veras-D&show_icons=true&theme=radical"/>
-  <img height="190cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veras-D&layout=compact&theme=radical&hide=Jupyter%20Notebook,css,html,matlab&exclude_repo=Exerciciospython,Gerenciador_Animais_APAM,PyGame_Projects,tasks,PyHolofotes,churnPrediction"/>  
+  <img width="345px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veras-D&layout=compact&theme=radical&hide=Jupyter%20Notebook,css,html,matlab&exclude_repo=Exerciciospython,Gerenciador_Animais_APAM,PyGame_Projects,tasks,PyHolofotes,churnPrediction"/>  
   <img width="808cm" src="https://github-readme-activity-graph.vercel.app/graph?username=Veras-D&theme=redical&radius=16"/>
 </div>
 <!--https://badges.pages.dev/-->
