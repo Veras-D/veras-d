@@ -14,7 +14,7 @@
 <!--https://badges.pages.dev/-->
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?pause=1000&color=D6008B&center=false&repeat=false&random=false&width=435&lines=Tecnologias🤖!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?pause=1000&color=D6008B&center=false&repeat=false&random=false&width=435&lines=Technologies🤖!)](https://git.io/typing-svg)
 
 ### Web 🌐
 ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)
